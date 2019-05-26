@@ -10,8 +10,9 @@ Search topics which were created or answered in the last 15, 30 or 45 minutes; 1
 ## Install
 1. Download the latest release.
 2. In the `ext` directory of your phpBB board, copy the `Picaron/SearchBack` folder. It must be so: `/ext/Picaron/SearchBack`
-4. Navigate in the ACP to `Customise -> Manage extensions`.
-5. Look for `Search Back Extension` under the Disabled Extensions list, and click its `Enable` link.
+3. Navigate in the ACP to `Customise -> Manage extensions`.
+4. Look for `Search Back Extension` under the Disabled Extensions list, and click its `Enable` link.
+5. Configure by navigating in the ACP -> GENERAL -> Post Setting -> Extension: `Search Back`
 
 ## Uninstall
 1. Navigate in the ACP to `Customise -> Extension Management -> Extensions`.
