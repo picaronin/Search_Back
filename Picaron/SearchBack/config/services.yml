@@ -1,0 +1,13 @@
+services:
+    Picaron.SearchBack.listener:
+        class: Picaron\SearchBack\event\listener
+        arguments:
+            - '@user'
+            - '@template'
+            - '@dbal.conn'
+            - '@auth'
+            - '@request'
+            - '%core.root_path%'
+            - '%core.php_ext%'
+        tags:
+            - { name: event.listener }
