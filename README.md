@@ -14,7 +14,7 @@ Search topics which were created or answered in the last 15, 30 or 45 minutes; 1
 4. Look for `Search Back Extension` under the Disabled Extensions list, and click its `Enable` link.
 5. Configure by navigating in the ACP -> GENERAL -> Post Setting -> Extension: `Search Back`
 
-## Uninstall
+## Uninstallx
 1. Navigate in the ACP to `Customise -> Extension Management -> Extensions`.
 2. Look for `Search Back Extension` under the Enabled Extensions list, and click its `Disable` link.
 3. To permanently uninstall, click `Delete Data` and then delete the `/ext/Picaron/SearchBack` folder.
