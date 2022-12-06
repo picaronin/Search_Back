@@ -5,7 +5,6 @@
 ## Requirements:
 * phpBB >= 3.3.0
 * PHP >= 7.1.0
-* [Ultimate Points Extension](http://www.dmzx-web.net/viewtopic.php?f=66&t=2415) >= 1.2.7 (Need/Recommended)
 
 ## Install
 1. Download the latest release.
